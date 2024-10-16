@@ -10,4 +10,4 @@
 
 ### Setup
 just need a web browser like chrome or safari etc then launch index.html page.
-http://127.0.0.1:5500/index.html
+https://roadmap.sh/projects/single-page-cv
