@@ -10,4 +10,4 @@
 
 ### Setup
 just need a web browser like chrome or safari etc then launch index.html page.
-project url: http://127.0.0.1:5500/Single-Page-CV/index.html
+http://127.0.0.1:5500/index.html
